@@ -70,6 +70,7 @@ body{
     margin-top: 119px;
     background:url(images/map-blur.png);
     background-repeat: repeat-x;
+    background-size: cover;
 }
 #content{
     padding-top: 1px;
